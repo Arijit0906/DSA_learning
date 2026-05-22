@@ -16,7 +16,7 @@ I will upload solutions regularly as I learn new concepts and solve problems.
 
 ---
 
-## 🛠️ Language i am using
+## 🛠️ Language Used
 
 - Python 🐍
 

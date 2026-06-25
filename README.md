@@ -34,6 +34,7 @@ This repository will include:
 - Searching & Sorting
 - Trees
 - Graphs
+- Two Pointers
 - Dynamic Programming
 - LeetCode Problems
 - And more...
